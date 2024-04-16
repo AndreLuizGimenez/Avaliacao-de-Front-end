@@ -1,0 +1,87 @@
+
+body {
+    background-color: #F2FEDC;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #839F3A;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+main h2 {
+    color: #839F3A;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+main p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #839F3A;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
+
+.promocoes {
+    color: #839F3A;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.promooff {
+    border: solid black;
+    text-align: center;
+    background-color: #839F3A;
+}
+
+.queijos {
+    position: absolute;
+    width: 30%;
+    border: solid black;
+    text-align: center;
+    background-color: white;
+    left: 35%;
+    
+}
+.pizza {
+    position: absolute;
+    width: 30%;
+    left: 35%;
+}
